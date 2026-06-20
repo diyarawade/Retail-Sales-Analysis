@@ -3,6 +3,10 @@
 ## Project Overview
 This project analyzes retail sales data using MySQL and Power BI to identify sales trends, regional performance, category-wise sales, and business insights.
 
+## Dashboard Preview
+
+![Retail Sales Dashboard](Dashboard_Screenshot.png)
+
 ## Tools & Technologies
 - MySQL
 - SQL
