@@ -6,6 +6,8 @@ This project analyzes retail sales data using MySQL and Power BI to identify sal
 ## Dashboard Preview
 
 <img width="1307" height="737" alt="Retail_Sales_Dashboard_Screenshot" src="https://github.com/user-attachments/assets/cbb11352-e090-488e-9049-de0e47dcec95" />
+
+
 <img width="1300" height="727" alt="Product_Analysis_Dashboard_Screenshot" src="https://github.com/user-attachments/assets/691fa17a-b49c-4ebe-9d3b-68310bb17075" />
 
 
