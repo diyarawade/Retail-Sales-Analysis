@@ -3,6 +3,14 @@
 ## Project Overview
 This project analyzes retail sales data using MySQL and Power BI to identify sales trends, regional performance, category-wise sales, and business insights.
 
+## Tools & Technologies
+
+- SQL
+- Power BI
+- DAX
+- Microsoft Excel
+- Sample Superstore Dataset
+  
 ## Dashboard Preview
 
 ### Executive Dashboard
@@ -13,14 +21,6 @@ This project analyzes retail sales data using MySQL and Power BI to identify sal
 
 <img width="1300" height="727" alt="Product_Analysis_Dashboard_Screenshot" src="https://github.com/user-attachments/assets/691fa17a-b49c-4ebe-9d3b-68310bb17075" />
 
-
-## Tools & Technologies
-- MySQL
-- SQL
-- Power BI
-- CSV Dataset
-- Data Analysis
-- Data Visualization
 
 ## Dataset
 Sample Superstore Dataset containing sales, profit, customer, product, and regional information.
