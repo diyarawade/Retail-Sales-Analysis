@@ -15,12 +15,11 @@ This project analyzes retail sales data using MySQL and Power BI to identify sal
 
 ### Executive Dashboard
 
-<img width="1307" height="737" alt="Retail_Sales_Dashboard_Screenshot" src="https://github.com/user-attachments/assets/cbb11352-e090-488e-9049-de0e47dcec95" />
+<img width="1332" height="745" alt="image" src="https://github.com/user-attachments/assets/47d431ee-2eb1-4e9b-aca6-ef109c56f6c4" />
 
 ### Product Analysis Dashboard
 
-<img width="1300" height="727" alt="Product_Analysis_Dashboard_Screenshot" src="https://github.com/user-attachments/assets/691fa17a-b49c-4ebe-9d3b-68310bb17075" />
-
+<img width="1306" height="732" alt="image" src="https://github.com/user-attachments/assets/baa4adc3-c5af-43b5-8b39-bcd956e01e6e" />
 
 ## Dataset
 Sample Superstore Dataset containing sales, profit, customer, product, and regional information.
